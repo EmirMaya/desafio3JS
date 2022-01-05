@@ -63,8 +63,8 @@
 // si bato de mas se corta
 // si bato justo, queda perfecta
 
-let continuarBatiendo = true;
-let batidas = 0;
+// let continuarBatiendo = true;
+// let batidas = 0;
 
 // do {
 //     let preguntarBatir = prompt('sigo batiendo? Y / N').toUpperCase();
@@ -121,7 +121,7 @@ while (num < 100) {
 }
 
 
-// contrasenia
+// contrasenia: pedire una contrasenia y solo hay 5 intentos para escribirla bien
 
 let password = 'amigo';
 let cont = 5;
